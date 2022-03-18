@@ -1,12 +1,14 @@
-#Create a new branch
+# Create a new branch
 	git checkout -b new-branch-name
 
-Go to another branch
+
+# Go to another branch
 	git checkout branch-name
 
-Update main
+
+# Update main
 	git checkout main/master
-git pull origin main/master
+	git pull origin main/master
 
 Upload your changes and merge them into main:
 git add .
